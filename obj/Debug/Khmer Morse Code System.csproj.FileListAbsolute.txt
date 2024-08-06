@@ -1,0 +1,62 @@
+D:\C-sharp\Khmer Morse Code System\bin\Debug\Khmer Morse Code System.exe.config
+D:\C-sharp\Khmer Morse Code System\bin\Debug\Khmer Morse Code System.exe
+D:\C-sharp\Khmer Morse Code System\bin\Debug\Khmer Morse Code System.pdb
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.csproj.AssemblyReference.cache
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Form1.resources
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Properties.Resources.resources
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.csproj.GenerateResource.cache
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.csproj.CoreCompileInputs.cache
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.exe
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.pdb
+D:\C-sharp\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Form2.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Khmer Morse Code System.exe.config
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Khmer Morse Code System.exe
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Khmer Morse Code System.pdb
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Form1.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.exe
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer Morse Code System.pdb
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Form2.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\ZstdSharp.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Google.Protobuf.pdb
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer Mo.4995F45E.Up2Date
+C:\Users\ASUS\Desktop\Khmer Morse Code System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Resources.Forms.Form3.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Resources.Forms.Form4.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Resources.Forms.Form5.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Resources.Forms.Form6.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Resources.Forms.Form7.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Khmer_Morse_Code_System.Resources.Forms.Form9.resources
+C:\Users\ASUS\Desktop\Khmer Morse Code System\obj\Debug\Ports.Form8.resources
